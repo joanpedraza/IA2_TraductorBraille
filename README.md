@@ -9,5 +9,5 @@ Dataset: Dos datasets, uno de caracteres: https://www.kaggle.com/datasets/shanks
 
 Modelos: CNN y YOLOV5n
 
-Todos los archivos relacionados al proyecto están en: https://github.com/joanpedraza/IA2_TraductorBraille
-El video esta alojado en: Placeholder
+Todos los archivos relacionados al proyecto están en: [Repositorio](https://github.com/joanpedraza/IA2_TraductorBraille)
+El video esta alojado en: [Video](https://youtu.be/QS8KXBt4e50)
