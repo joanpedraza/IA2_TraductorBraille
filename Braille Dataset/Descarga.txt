@@ -1,0 +1,1 @@
+Descarga el dataset de kaggle en https://www.kaggle.com/datasets/shanks0465/braille-character-dataset y subirlo a esta carpeta si se quiere usar el notebook
